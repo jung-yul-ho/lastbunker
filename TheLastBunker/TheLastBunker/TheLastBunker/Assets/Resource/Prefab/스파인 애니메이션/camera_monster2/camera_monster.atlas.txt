@@ -1,0 +1,69 @@
+
+camera_monster.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+five_parts
+  rotate: false
+  xy: 2, 18
+  size: 172, 68
+  orig: 172, 69
+  offset: 0, 1
+  index: -1
+force_parts
+  rotate: false
+  xy: 176, 19
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+frist_parts
+  rotate: false
+  xy: 315, 2
+  size: 103, 84
+  orig: 107, 86
+  offset: 3, 0
+  index: -1
+last_parts
+  rotate: false
+  xy: 542, 18
+  size: 107, 68
+  orig: 108, 68
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 774, 17
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 809, 17
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+second_parts
+  rotate: false
+  xy: 721, 18
+  size: 51, 68
+  orig: 53, 70
+  offset: 1, 1
+  index: -1
+six_parts
+  rotate: false
+  xy: 420, 19
+  size: 120, 67
+  orig: 121, 69
+  offset: 0, 2
+  index: -1
+third_parts
+  rotate: true
+  xy: 651, 3
+  size: 83, 68
+  orig: 84, 69
+  offset: 1, 1
+  index: -1

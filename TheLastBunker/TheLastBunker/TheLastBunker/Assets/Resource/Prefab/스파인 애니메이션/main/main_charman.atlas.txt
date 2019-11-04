@@ -1,0 +1,195 @@
+
+main_charman.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 627, 428
+  size: 81, 150
+  orig: 81, 150
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 492, 4
+  size: 63, 156
+  orig: 63, 156
+  offset: 0, 0
+  index: -1
+back_back_hair
+  rotate: true
+  xy: 699, 135
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+back_hair
+  rotate: false
+  xy: 222, 8
+  size: 168, 194
+  orig: 168, 194
+  offset: 0, 0
+  index: -1
+closed_eyes
+  rotate: false
+  xy: 2, 2
+  size: 113, 14
+  orig: 115, 16
+  offset: 1, 1
+  index: -1
+closes_neck
+  rotate: true
+  xy: 627, 381
+  size: 45, 48
+  orig: 53, 49
+  offset: 6, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 412, 221
+  size: 134, 18
+  orig: 134, 19
+  offset: 0, 1
+  index: -1
+face
+  rotate: true
+  xy: 2, 18
+  size: 184, 218
+  orig: 193, 220
+  offset: 5, 1
+  index: -1
+front_heir
+  rotate: false
+  xy: 392, 46
+  size: 88, 161
+  orig: 88, 161
+  offset: 0, 0
+  index: -1
+hair_left
+  rotate: false
+  xy: 287, 333
+  size: 156, 176
+  orig: 156, 176
+  offset: 0, 0
+  index: -1
+hair_right
+  rotate: false
+  xy: 482, 69
+  size: 77, 150
+  orig: 77, 154
+  offset: 0, 1
+  index: -1
+heavy_eye
+  rotate: false
+  xy: 575, 353
+  size: 98, 25
+  orig: 100, 25
+  offset: 2, 0
+  index: -1
+heavy_eyeline
+  rotate: false
+  xy: 287, 209
+  size: 123, 30
+  orig: 125, 35
+  offset: 0, 1
+  index: -1
+leg_left
+  rotate: true
+  xy: 480, 262
+  size: 71, 172
+  orig: 80, 172
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 561, 89
+  size: 67, 171
+  orig: 67, 171
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 677, 353
+  size: 73, 67
+  orig: 73, 68
+  offset: 0, 1
+  index: -1
+open_eye
+  rotate: false
+  xy: 392, 9
+  size: 98, 35
+  orig: 112, 35
+  offset: 2, 0
+  index: -1
+open_eyeline
+  rotate: false
+  xy: 445, 335
+  size: 128, 43
+  orig: 129, 48
+  offset: 0, 4
+  index: -1
+pant_left
+  rotate: false
+  xy: 654, 265
+  size: 60, 86
+  orig: 62, 89
+  offset: 1, 3
+  index: -1
+pant_right
+  rotate: true
+  xy: 650, 3
+  size: 77, 84
+  orig: 78, 85
+  offset: 1, 1
+  index: -1
+pelvis
+  rotate: true
+  xy: 630, 134
+  size: 126, 67
+  orig: 127, 71
+  offset: 1, 3
+  index: -1
+side_hair_left
+  rotate: true
+  xy: 630, 82
+  size: 50, 122
+  orig: 54, 122
+  offset: 4, 0
+  index: -1
+side_hair_right
+  rotate: true
+  xy: 287, 241
+  size: 90, 191
+  orig: 90, 191
+  offset: 0, 0
+  index: -1
+sleeve_left
+  rotate: false
+  xy: 736, 3
+  size: 71, 77
+  orig: 79, 80
+  offset: 7, 1
+  index: -1
+sleeve_right
+  rotate: false
+  xy: 699, 183
+  size: 54, 80
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+upper_body
+  rotate: true
+  xy: 445, 380
+  size: 129, 180
+  orig: 132, 181
+  offset: 2, 0
+  index: -1
+weapon_gun
+  rotate: false
+  xy: 2, 204
+  size: 283, 305
+  orig: 283, 306
+  offset: 0, 0
+  index: -1

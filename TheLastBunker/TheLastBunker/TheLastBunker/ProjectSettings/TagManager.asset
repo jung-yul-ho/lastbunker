@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plane
+  - Enermy
+  - Block
+  - Object
+  - rabber
+  - box
+  - door
+  - proviso
+  - Wall
+  - Secretrabber
+  - FirstKit
+  - Canmove_obj
+  - ParkingTarget
+  - Clue
+  - Laser
+  - ClearRabber
+  - Easybox
+  - ObjPrinter
+  - EasyDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - plane
+  - Player
+  - Character
+  - Tiles
+  - DontMoveTile
+  - Object
+  - Effect
+  - Trap
+  - BackGround
+  - CanMoveObj
+  - CanThrowObj
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

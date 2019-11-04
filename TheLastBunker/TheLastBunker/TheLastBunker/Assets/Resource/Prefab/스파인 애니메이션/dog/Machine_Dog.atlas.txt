@@ -1,0 +1,83 @@
+
+Machine_Dog.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+귀 (보이는쪽)
+  rotate: 180
+  xy: 851, 19
+  size: 77, 147
+  orig: 108, 160
+  offset: 25, 2
+  index: -1
+귀 (안쪽)
+  rotate: false
+  xy: 915, 74
+  size: 66, 119
+  orig: 86, 123
+  offset: 3, 0
+  index: -1
+꺼진 눈 (보이는쪽) copy
+  rotate: false
+  xy: 102, 3
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+꼬리
+  rotate: false
+  xy: 2, 9
+  size: 99, 28
+  orig: 99, 36
+  offset: 0, 3
+  index: -1
+뒷다리 (보이는쪽)
+  rotate: true
+  xy: 482, 6
+  size: 95, 199
+  orig: 266, 199
+  offset: 158, 0
+  index: -1
+뒷다리 (안쪽)
+  rotate: 180
+  xy: 770, 2
+  size: 82, 190
+  orig: 82, 190
+  offset: 0, 0
+  index: -1
+몸통
+  rotate: false
+  xy: 2, 38
+  size: 294, 155
+  orig: 294, 155
+  offset: 0, 0
+  index: -1
+살아있는 눈 (보이는쪽)
+  rotate: false
+  xy: 171, 3
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+앞다리 (기계)
+  rotate: true
+  xy: 482, 87
+  size: 106, 206
+  orig: 106, 206
+  offset: 0, 0
+  index: -1
+앞다리 (안쪽)
+  rotate: false
+  xy: 682, 14
+  size: 95, 177
+  orig: 192, 177
+  offset: 0, 0
+  index: -1
+얼굴
+  rotate: false
+  xy: 298, 33
+  size: 182, 159
+  orig: 191, 159
+  offset: 1, 0
+  index: -1
